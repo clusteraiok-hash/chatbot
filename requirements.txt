@@ -1,11 +1,13 @@
 streamlit
+python-dotenv
 langchain
-langgraph
 langchain-core
 langchain-community
+langgraph
 groq
-python-dotenv
 requests
-<other_module_1>
-<other_module_2>
-...
+pandas
+numpy
+protobuf
+pyarrow
+# Add any other libs you see imported in your files (see step 3)
