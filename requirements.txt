@@ -4,6 +4,7 @@ langchain
 langchain-core
 langchain-community
 langgraph
+langchain_groq
 groq
 requests
 pandas
