@@ -1,0 +1,11 @@
+streamlit
+langchain
+langgraph
+langchain-core
+langchain-community
+groq
+python-dotenv
+requests
+<other_module_1>
+<other_module_2>
+...
